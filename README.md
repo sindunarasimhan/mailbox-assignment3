@@ -22,6 +22,7 @@ Time spent: 6
     - [ ] Upon release, the message should continue to reveal the green background. When the animation it complete, it should hide the message.
   - [ ] After 260 pts, the icon should change to the delete icon and the background color should change to red.
 
-
+Walkthrough of all implemented user stories:
+https://github.com/sindunarasimhan/mailbox-assignment3/blob/master/mailbox.gif
 
 
